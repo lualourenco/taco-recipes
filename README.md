@@ -4,6 +4,9 @@
 
 Are you craving some mouthwatering tacos? Look no further! This website allows you to choose from a selection of three tantalizing taco recipes and learn how to make your own tasty tacos. Powered by Node.js, Express, HTML, CSS, and JavaScript, and integrated with an API, this website offers a delightful culinary experience.
 
+## Created During a Bootcamp
+This project was created as part of [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=ST6MT42324) on Udemy. The bootcamp provided valuable knowledge and guidance in web development, empowering me to build this Taco Recipes website.
+
 ## Features
 - Choose from three delicious taco recipes.
 - View detailed instructions on how to make each taco.
